@@ -1,7 +1,6 @@
 # AstroShooter
 
 Diogo de Andrade
-----------------
 ULHT + Fun Punch Games
 
 Isto é um jogo (em princípio) feito em 45 minutos para a Workshop "CodeFu - Fazer um jogo em 45 minutos"
