@@ -19,3 +19,5 @@ As regras auto-impostas são as seguintes:
 - Aspecto visual mais ou menos irrelevante
 - Design não muito importante, apesar de haver algum cuidado para a mecânica base ser divertida
 - Excepção ao pontos anteriores: o Title Screen (para poder creditar correctamente os autores dos assets que estou a usar)
+
+Os primeiros commits (fáceis de identificar) é só a preparação do material para a workshop, o commit a seguir (ainda não feito na altura da escrita deste ReadMe) é o jogo no estado em que estava no final da workshop.
